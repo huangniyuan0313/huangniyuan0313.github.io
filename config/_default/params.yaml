@@ -36,7 +36,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      # text: "Your Name"
+      text: "Niyuan Huang"
 
 # Site footer
 footer:
