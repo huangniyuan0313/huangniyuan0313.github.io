@@ -65,7 +65,7 @@ education:
   - area: BS Finance (minor in Artificial Intelligence)
     institution: School of Economics, Zhejiang University
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-30
     summary: |
       GPA: 3.92/4.0
       
