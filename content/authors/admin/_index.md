@@ -3,7 +3,7 @@
 title: Niyuan Huang(黄倪远)
 
 # Name pronunciation (optional)
-name_pronunciation: Niyuan Huang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Niyuan
