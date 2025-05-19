@@ -11,7 +11,7 @@ last_name: Huang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ‘’
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,6 +48,7 @@ profiles:
 
 interests:
   - Economics
+  - Finance
 
 
 education:
