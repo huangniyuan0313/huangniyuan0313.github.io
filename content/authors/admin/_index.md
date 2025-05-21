@@ -104,33 +104,37 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
+        description: 'Proficient in using Python for machine learning and large-scale data processing. Experienced with libraries such as NumPy, Pandas, XGBoost, PyTorch, and TensorFlow.'
+        percent: 100
+        icon: python
+      - name: STATA
+        description: 'Applied mainly in empirical economic research, especially for regression modeling and econometric analysis.'
+        percent: 100
+        icon: matlab  
+      - name: MATLAB
+        description: 'Primarily used for matrix computations, numerical analysis, and data visualization.'
+        percent: 80
+        icon: matlab
+      - name: C
+        description: 'Used in data structures coursework to understand fundamental concepts such as stacks, heaps, and queues.'
+        percent: 50
+        icon: c
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
         description: ''
         percent: 100
-        icon: python.jpeg
-      - name: MATLAB
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: matlab.gif
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+        icon: camera
 
 languages:
   - name: Chinese
