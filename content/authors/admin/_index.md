@@ -119,6 +119,7 @@ skills:
         description: 'Used in data structures coursework to understand fundamental concepts such as stacks, heaps, and queues.'
         percent: 50
         icon: "custom/microsoft"
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
