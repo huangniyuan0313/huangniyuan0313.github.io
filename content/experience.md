@@ -22,10 +22,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-      design:
-        columns: '1'
     design:
       show_skill_percentage: false
+      columns: '1'
   - block: resume-awards
     content:
       title: Awards
