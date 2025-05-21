@@ -121,8 +121,8 @@ skills:
         # icon: "custom/microsoft"
 
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
     items:
       - name: Debate
         description: 'Former member of the Zhejiang University Debate Team and served as the 2020 cohort captain of the Chu Kochen Honors College Debate Team.'
