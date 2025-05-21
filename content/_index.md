@@ -35,11 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-      As a master's student actively preparing for PhD applications, I am currently exploring and refining my academic interests.
-      During both my undergraduate and graduate studies, I have participated in various research projects under the guidance of professors, exploring topics such as rational inattention, network analysis, ESG, and innovation. These experiences have given me exposure to a broad range of ideas in economics and finance.
-      I have also pursued small independent projects—for instance, using XGBoost to fit a multifactor model for performance enhancement, which was the final project in my quantitative investing course.
-      While I am still in the process of narrowing down my specific research field, I have built a solid foundation in both qualitative and quantitative methods, particularly in economics and finance.
-      If you're interested in what I do, I would be excited to collaborate! 😃
+        As a master's student actively preparing for PhD applications, I am currently exploring and refining my academic interests.
+        
+        During both my undergraduate and graduate studies, I have participated in various research projects under the guidance of professors, exploring topics such as rational inattention, network analysis, ESG, and innovation. These experiences have given me exposure to a broad range of ideas in economics and finance.
+        
+        I have also pursued small independent projects—for instance, using XGBoost to fit a multifactor model for performance enhancement, which was the final project in my quantitative investing course.
+      
+        While I am still in the process of narrowing down my specific research field, I have built a solid foundation in both qualitative and quantitative methods, particularly in economics and finance.
+      
+        If you're interested in what I do, I would be excited to collaborate! 😃
     design:
       columns: '1'
   # - block: collection
