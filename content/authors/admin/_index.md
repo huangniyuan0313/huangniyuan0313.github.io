@@ -146,18 +146,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  # - title: Neural Networks and Deep Learning
-  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #   date: '2023-11-25'
-  #   awarder: Coursera
-  #   icon: coursera
-  #   summary: |
-  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  # - title: Blockchain Fundamentals
-  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #   date: '2023-07-01'
-  #   awarder: edX
-  #   icon: edx
+  - title: National Scholarship
+    url: http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html
+    date: '2021-12-17'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I achieved a GPA ranking in the top 10% of my major and actively participated in various college activities, which ultimately led to receiving an award.
+  - title: Zhejiang University First-Class Scholarship
+  #   url: 
+    date: '2021-11-01'
+    awarder: edX
+    icon: edx
   #   summary: |
   #     Learned:
   #     - Synthesize your own blockchain solutions
