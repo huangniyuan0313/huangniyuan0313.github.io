@@ -110,15 +110,15 @@ skills:
       - name: STATA
         description: 'Applied mainly in empirical economic research, especially for regression modeling and econometric analysis.'
         percent: 100
-        icon: stata  
+        icon: “stata”  
       - name: MATLAB
         description: 'Primarily used for matrix computations, numerical analysis, and data visualization.'
         percent: 80
-        icon: matlab
+        icon: ”matlab“
       - name: C
         description: 'Used in data structures coursework to understand fundamental concepts such as stacks, heaps, and queues.'
         percent: 50
-        icon: C
+        icon: “C”
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -126,11 +126,11 @@ skills:
       - name: Debate
         description: 'Former member of the Zhejiang University Debate Team and served as the 2020 cohort captain of the Chu Kochen Honors College Debate Team.'
         percent: 80
-        icon: debate
+        icon: “debate”
       - name: 
         description: 'Passionate about a wide range of sports, including basketball, fitness training, long-distance running, and table tennis.'
         percent: 100
-        icon: basketball
+        icon: “basketball”
 
 
 languages:
