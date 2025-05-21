@@ -106,11 +106,11 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: python.jpeg
       - name: MATLAB
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: matlab.gif
       - name: SQL
         description: ''
         percent: 40
@@ -149,15 +149,15 @@ awards:
   - title: National Scholarship
     url: http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202112/t20211216_587869.html
     date: '2021-12-17'
-    awarder: Coursera
-    icon: coursera
+    awarder: Ministry of Education of China
+    # icon: coursera
     summary: |
       I achieved a GPA ranking in the top 10% of my major and actively participated in various college activities, which ultimately led to receiving an award.
   - title: Zhejiang University First-Class Scholarship
   #   url: 
     date: '2021-11-01'
-    awarder: edX
-    icon: edx
+    awarder: Zhejiang University
+    # icon: edx
   #   summary: |
   #     Learned:
   #     - Synthesize your own blockchain solutions
