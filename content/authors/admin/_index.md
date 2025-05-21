@@ -106,20 +106,20 @@ skills:
       - name: Python
         description: 'Proficient in using Python for machine learning and large-scale data processing. Experienced with libraries such as NumPy, Pandas, XGBoost, PyTorch, and TensorFlow.'
         percent: 100
-        icon: python
+        # icon: python
       - name: STATA
         description: 'Applied mainly in empirical economic research, especially for regression modeling and econometric analysis.'
         percent: 100
-        icon: "custom/stata"
+        # icon: "custom/stata"
       - name: MATLAB
         description: 'Primarily used for matrix computations, numerical analysis, and data visualization.'
         percent: 80
-        icon: "custom/matlab"
+        # icon: "custom/matlab"
       - name: C
         description: 'Used in data structures coursework to understand fundamental concepts such as stacks, heaps, and queues.'
         percent: 50
-        icon: "custom/microsoft"
-        
+        # icon: "custom/microsoft"
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -127,11 +127,11 @@ skills:
       - name: Debate
         description: 'Former member of the Zhejiang University Debate Team and served as the 2020 cohort captain of the Chu Kochen Honors College Debate Team.'
         percent: 80
-        icon: "custom/debate"
+        # icon: "custom/debate"
       - name: 
         description: 'Passionate about a wide range of sports, including basketball, fitness training, long-distance running, and table tennis.'
         percent: 100
-        icon: "custom/basketball"
+        # icon: "custom/basketball"
 
 
 languages:
