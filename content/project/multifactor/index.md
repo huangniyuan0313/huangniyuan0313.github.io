@@ -1,6 +1,6 @@
 ---
 title: MultiFactor
-date: 2023-2-8
+date: 2023-02-08
 external_link: https://github.com/huangniyuan0313/MultiFactor
 tags:
   - Multi-Factor Model
