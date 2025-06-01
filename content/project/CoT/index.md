@@ -1,7 +1,7 @@
 ---
 title: Chain-of-Thought (CoT)
-date: 2022-12-04
-external_link: https://github.com/huangniyuan0313/Prediction-of-future-inflation
+date: 2024-05-21
+external_link: https://github.com/huangniyuan0313/CoT
 tags:
   - Chain-of-Thought Prompting(CoT)
   - Large Language Models(LLM)
