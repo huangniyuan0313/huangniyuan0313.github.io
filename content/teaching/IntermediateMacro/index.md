@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomics Recitation Slides"
+title: "Intermediate Macroeconomics - TA"
 summary: Recitation Slides
 date: 2025-02-04
 tags:
